@@ -18,4 +18,4 @@ This has only been tested on a 11th gen Intel Framework Mainboard
 
 If everything went well, after rebooting you should be greeted by a Steam login screen
 
-Steam does not show the Desktop Mode button on Windows. A regular Windows Explorer session will be started if you exit Big Picture Mode.
+Steam does not show the Desktop Mode button on Windows. A regular Windows Explorer session will be started if you exit Big Picture Mode. Just enter Big Picture Mode again from Steam to get back (explorer will be killed automatically)
