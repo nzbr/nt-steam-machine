@@ -163,4 +163,4 @@ Set-ItemProperty `
     -Value 0
 
 
-Write-Host "Installation complete, please reboot"
+Write-Host "`nInstallation complete, please reboot"
